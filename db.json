@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Sanjay",
+      "lastName": "Chaudhari",
+      "emailId": "sanju@gmail.com",
+      "mobileNumber": "123456789",
+      "salary": "12345"
+    },
+    {
+      "id": 3,
+      "firstName": "prakahar",
+      "lastName": "tripathi",
+      "emailId": "prakhar@gmail.com",
+      "mobileNumber": "1000012",
+      "salary": "123123"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
